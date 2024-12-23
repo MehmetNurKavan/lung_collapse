@@ -2,6 +2,10 @@
 
 Bu proje, tıbbi görüntüler üzerinde çalışan bir makine öğrenimi modelinin, akciğer hastalıklarını (akciğer çökmesi, sağlıklı, verem ve zatüre) tespit etmek için geliştirilmesini içerir. Veri setleri özel olarak düzenlenmiştir ve test ve eğitim veri setleri program tarafından istenilen oranlarda ayrılmıştır.
 
+## Model Accuracy - Epochs, Model Loss - Epochs
+![Model Accuracy - Epochs, Model Loss - Epochs](accuracy_loss.png)
+![Model Training](model_training.png)
+
 ## Veri Seti
 
 - **Veri kaynağı**: [Google Drive Linki](https://drive.google.com/file/d/1T0ZrHiic1WarBCEGd8yONws6lvTNm-pj/view?usp=sharing)
